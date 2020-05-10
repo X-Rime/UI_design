@@ -17,12 +17,3 @@
 
 
 ## 二、设计作品：
-### 结构层
-![结构层](https://gitee.com/tangyuqing/interface-design/raw/master/%E6%9C%9F%E4%B8%AD-%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1/%E7%95%8C%E9%9D%A2%E5%88%86%E6%9E%90%E5%8F%8A%E8%AE%BE%E8%AE%A1/%E4%BA%A7%E5%93%81%E7%BB%93%E6%9E%84%E5%B1%82.png)
-### 交互路径
-![交互路径](https://gitee.com/tangyuqing/interface-design/raw/master/%E6%9C%9F%E4%B8%AD-%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1/%E7%95%8C%E9%9D%A2%E5%88%86%E6%9E%90%E5%8F%8A%E8%AE%BE%E8%AE%A1/%E4%BA%A7%E5%93%81%E4%BA%A4%E4%BA%92.png)
-### 视觉规范
-![视觉规范](https://gitee.com/tangyuqing/interface-design/raw/master/%E6%9C%9F%E4%B8%AD-%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1/%E7%95%8C%E9%9D%A2%E5%88%86%E6%9E%90%E5%8F%8A%E8%AE%BE%E8%AE%A1/%E4%BA%A7%E5%93%81%E8%A7%84%E8%8C%83.png)
-
-
-
