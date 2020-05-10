@@ -1,0 +1,25 @@
+# 期中界面设计作业
+- 设计产品简介：
+- 定位：便捷出行App
+
+## 一、竞品分析：滴滴出行
+### 架构层
+ ![架构层](https://gitee.com/tangyuqing/interface-design/raw/master/%E6%9C%9F%E4%B8%AD-%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1/%E7%95%8C%E9%9D%A2%E5%88%86%E6%9E%90%E5%8F%8A%E8%AE%BE%E8%AE%A1/%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1-%E4%BF%A1%E6%81%AF%E6%A1%86%E6%9E%B6.png)
+### 交互路径分析
+- 交互路径
+![交互路径](https://gitee.com/tangyuqing/interface-design/raw/master/%E6%9C%9F%E4%B8%AD-%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1/%E7%95%8C%E9%9D%A2%E5%88%86%E6%9E%90%E5%8F%8A%E8%AE%BE%E8%AE%A1/%E4%BA%A4%E4%BA%92%E8%B7%AF%E5%BE%84%E5%88%86%E6%9E%90.png)
+- 交互亮点：选择对比产品--滴滴出行；嘀嗒打车
+![交互亮点](https://gitee.com/tangyuqing/interface-design/raw/master/%E6%9C%9F%E4%B8%AD-%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1/%E7%95%8C%E9%9D%A2%E5%88%86%E6%9E%90%E5%8F%8A%E8%AE%BE%E8%AE%A1/%E4%BA%A4%E4%BA%92%E4%BA%AE%E7%82%B9.png)
+### 视觉层面分析
+![](https://gitee.com/tangyuqing/interface-design/raw/master/%E6%9C%9F%E4%B8%AD-%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1/%E7%95%8C%E9%9D%A2%E5%88%86%E6%9E%90%E5%8F%8A%E8%AE%BE%E8%AE%A1/%E8%A7%86%E8%A7%89%E5%B1%82%E9%9D%A2%E5%88%86%E6%9E%90.png)
+
+## 二、设计作品：
+### 结构层
+![结构层](https://gitee.com/tangyuqing/interface-design/raw/master/%E6%9C%9F%E4%B8%AD-%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1/%E7%95%8C%E9%9D%A2%E5%88%86%E6%9E%90%E5%8F%8A%E8%AE%BE%E8%AE%A1/%E4%BA%A7%E5%93%81%E7%BB%93%E6%9E%84%E5%B1%82.png)
+### 交互路径
+![交互路径](https://gitee.com/tangyuqing/interface-design/raw/master/%E6%9C%9F%E4%B8%AD-%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1/%E7%95%8C%E9%9D%A2%E5%88%86%E6%9E%90%E5%8F%8A%E8%AE%BE%E8%AE%A1/%E4%BA%A7%E5%93%81%E4%BA%A4%E4%BA%92.png)
+### 视觉规范
+![视觉规范](https://gitee.com/tangyuqing/interface-design/raw/master/%E6%9C%9F%E4%B8%AD-%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1/%E7%95%8C%E9%9D%A2%E5%88%86%E6%9E%90%E5%8F%8A%E8%AE%BE%E8%AE%A1/%E4%BA%A7%E5%93%81%E8%A7%84%E8%8C%83.png)
+
+
+
