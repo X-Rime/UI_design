@@ -22,4 +22,5 @@
 ![架构层](https://gitee.com/XiongXiongHandsome/UI_design/raw/master/%E6%9C%9F%E4%B8%AD%E7%AB%9E%E5%93%81%E5%88%86%E6%9E%90/%E5%9B%BE%E7%89%87%E6%96%87%E4%BB%B6/%E4%BA%A7%E5%93%81%E4%B8%AD%E5%BF%83.jpg)
 ### 交互路径
 ![交互路径](https://gitee.com/XiongXiongHandsome/UI_design/raw/master/%E6%9C%9F%E4%B8%AD%E7%AB%9E%E5%93%81%E5%88%86%E6%9E%90/%E5%9B%BE%E7%89%87%E6%96%87%E4%BB%B6/%E4%B8%8D%E6%83%B3%E8%B5%B0%E8%B7%AF2.png)
+### 视觉分析
 ![视觉分析](https://gitee.com/XiongXiongHandsome/UI_design/raw/master/%E6%9C%9F%E4%B8%AD%E7%AB%9E%E5%93%81%E5%88%86%E6%9E%90/%E5%9B%BE%E7%89%87%E6%96%87%E4%BB%B6/%E4%B8%8D%E6%83%B3%E8%B5%B0%E8%B7%AF3.png)
